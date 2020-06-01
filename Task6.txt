@@ -1,0 +1,23 @@
+<div></div>
+<p></p><p style="border-radius:0 100% 0 0;background: #FADE8B"></p>
+
+<style>
+  *{background:#E3516E}
+  p {
+    width: 100px;
+    height: 100px;
+    background: #51B5A9;
+    border-radius:100%0 0;
+    float: left;
+    position:relative;
+    left: 92;
+    top: -365
+  }
+    div {
+    width: 100px;
+    height: 100px;
+    background: #F7F3D7;
+    border-radius:0 0 0 100%;
+    margin: 149.5 92
+  }
+</style>
